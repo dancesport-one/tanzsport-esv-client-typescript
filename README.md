@@ -1,8 +1,8 @@
 # Tanzsport ESV TypeScript Client (unofficial)
 
 [![NPM Version](https://img.shields.io/npm/v/%40dancesport.one%2Ftanzsport-esv-client)](https://www.npmjs.com/package/@dancesport.one/tanzsport-esv-client)
-[![Apache 2.0 License](https://img.shields.io/github/license/dancesport-one/tanzsport-esv-client)](https://apache.org/licenses/LICENSE-2.0)
-[![CodeFactor](https://www.codefactor.io/repository/github/dancesport-one/tanzsport-esv-client/badge)](https://www.codefactor.io/repository/github/dancesport-one/tanzsport-esv-client)
+[![Apache 2.0 License](https://img.shields.io/github/license/dancesport-one/tanzsport-esv-client-typescript)](https://apache.org/licenses/LICENSE-2.0)
+[![CodeFactor](https://www.codefactor.io/repository/github/dancesport-one/tanzsport-esv-client-typescript/badge)](https://www.codefactor.io/repository/github/dancesport-one/tanzsport-esv-client-typescript)
 
 
 This is an unofficial TypeScript client for the public API of the Electronic Sports Administration (Elektronische Sportverwaltung, ESV) of the German DanceSport Federation (Deutscher Tanzsportverband).
