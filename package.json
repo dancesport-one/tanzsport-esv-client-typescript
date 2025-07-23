@@ -1,0 +1,36 @@
+{
+  "name": "@dancesport.one/tanzsport-esv-client",
+  "version": "0.0.0",
+  "description": "This is an unofficial TypeScript client for the public API of the Electronic Sports Administration (Elektronische Sportverwaltung, ESV) of the German DanceSport Federation (Deutscher Tanzsportverband).",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dancesport-one/tanzsport-esv-client-typescript.git"
+  },
+  "author": "DanceSport.one",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/dancesport-one/tanzsport-esv-client-typescript/issues"
+  },
+  "homepage": "https://github.com/dancesport-one/tanzsport-esv-client-typescript#readme",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.0.5",
+    "ts-jest": "^29.4.0",
+    "ts-node": "^10.9.2",
+    "tsup": "^8.5.0",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "axios": "^1.11.0"
+  }
+}
